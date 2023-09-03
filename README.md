@@ -5,7 +5,8 @@ sklearn, geopandas, statsmodels, OLS Resgression, k-means & Davies-Bouldin clust
 Data Analytics project to gain insights of the AirBnB market in Vienna. With that, I want to see why AirBnB's offers cost their price, what areas are pricier or cheaper and whether I can predict a price for a new offer.  
 
 ## Data
-The data was downloaded in August 2020 from [insideairbnb](http://insideairbnb.com/get-the-data/). The dataset is cleaned and prepared for analysis in the first half of the notebook. 
+The data was downloaded in August 2020 from [insideairbnb](http://insideairbnb.com/get-the-data/). The dataset is cleaned and prepared for analysis in the first half of the notebook. The shape file of Vienna's districts was downloaded from [data.gv.at](https://www.data.gv.at/katalog/dataset/stadt-wien_bezirksgrenzenwien#resources). 
+
 
 ## Result
 
