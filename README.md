@@ -1,6 +1,6 @@
 # AirBnB-VIE-Analysis
 
-sklearn, geopandas, statsmodels, OLS Resgression, k-means & Davies-Bouldin clustering
+sklearn, geopandas, statsmodels, OLS Regression, k-means & Davies-Bouldin clustering
 
 Data Analytics project to gain insights of the AirBnB market in Vienna. With that, I want to see why AirBnB's offers cost their price, what areas are pricier or cheaper and whether I can predict a price for a new offer.  
 
